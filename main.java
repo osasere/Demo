@@ -3,5 +3,5 @@
 # Defining main class
   
 # User details:
-# userid
-# password
+# userid: user
+# password: password
