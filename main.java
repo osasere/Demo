@@ -2,3 +2,6 @@
 
 # Defining main class
   
+# User details:
+# userid
+# password
